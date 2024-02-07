@@ -14,7 +14,11 @@ knitr::opts_chunk$set(echo = TRUE)
 r <- 2
 A <- pi * r^2
 ```
-
+#Cálculo longitud circunferencia
+```{r}
+r<-2
+L <- 2*pi*r
+```{r}
 
 
 ```{r cars}
